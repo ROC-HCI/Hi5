@@ -1,6 +1,8 @@
 # Following are the terminal commands used in this study with the config files
 To run this, please add the corresponding config files in the `config/` directory in ViTPose repository.
 
+The checkpoints could be found at: https://www.dropbox.com/scl/fo/cs5bdynig2a8jazpomul7/AFJ_f9mKHxlsrR60eGn0SRU?rlkey=tw1y19spyxtsca94pz6on2z1j&st=uduvogbm&dl=0
+
 ## Train
 
 bash tools/dist\_train.sh configs/hand/2d\_kpt\_sview\_rgb\_img/topdown\_heatmap/hi5/ViTPose\_small\_hi5\_all\_256x192.py 4 \--cfg-options model.pretrained=weights/small\_pretrained.pth \--seed 0

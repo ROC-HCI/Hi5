@@ -21,8 +21,7 @@
 https://github.com/ViTAE-Transformer/ViTPose
 - Please follow the training instructions from the repository.
 - For using Hi5 and OneHand10k train and evaluation used in the paepr, see the config files in `config/` directory.
-
-To run our training code, add the content in the `config` files to `ViTPose/configs/hand/2d_kpt_sview_rgb_img/topdown_heatmap/`
+- To reproduce our results, add the content in the `config` files to `ViTPose/configs/hand/2d_kpt_sview_rgb_img/topdown_heatmap/`
 
 
 

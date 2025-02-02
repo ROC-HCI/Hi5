@@ -6,11 +6,8 @@
 
 ## Unity Game Engine Project
 - Same dropbox link above
-- Doesn't contain the game engine 
-
-
-## 3D Hand Model used in this study:
-- https://assetstore.unity.com/packages/3d/characters/humanoids/leap-motion-realistic-male-hands-109961
+- Doesn't contain the hand models
+- For game engine project setup, please follow `unity-setup-guide.md`
 
 
 ## Data Augmentation
@@ -20,9 +17,9 @@
 ## Training Code
 - For Training and Evaluation, please use ViTPose repository:
 https://github.com/ViTAE-Transformer/ViTPose
-- Please follow the training instructions from the repository.
-- For using Hi5 and OneHand10k train and evaluation used in the paepr, see the config files in `config/` directory.
+- Please follow the training and evaluation instructions from the repository.
 - To reproduce our results, add the content in the `config` files to `ViTPose/configs/hand/2d_kpt_sview_rgb_img/topdown_heatmap/`
+- Exact command line arguments used in this study can be seen in `terminal commands.md` file.
 - Trained checkpoints in Dropbox
 
 ## Other datasets

@@ -5,7 +5,8 @@
 
 
 ## Unity Game Engine Project
-
+- Same dropbox link above
+- Doesn't contain the game engine 
 
 
 ## 3D Hand Model used in this study:
@@ -22,6 +23,9 @@ https://github.com/ViTAE-Transformer/ViTPose
 - Please follow the training instructions from the repository.
 - For using Hi5 and OneHand10k train and evaluation used in the paepr, see the config files in `config/` directory.
 - To reproduce our results, add the content in the `config` files to `ViTPose/configs/hand/2d_kpt_sview_rgb_img/topdown_heatmap/`
+- Trained checkpoints in Dropbox
 
-
+## Other datasets
+- OneHand10K: https://www.yangangwang.com/papers/WANG-MCC-2018-10.html
+- 11k hands: https://sites.google.com/view/11khands
 

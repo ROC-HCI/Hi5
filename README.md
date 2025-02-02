@@ -5,8 +5,7 @@
 
 
 ## Unity Game Engine Project
-- Same dropbox link above
-- Doesn't contain the hand models
+- Same dropbox link above, `Hi5_Unity_Project.zip`
 - For game engine project setup, please follow `unity-setup-guide.md`
 
 

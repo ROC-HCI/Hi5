@@ -1,4 +1,4 @@
-# Hi5 ✋: Synthetic Data for Inclusive, Robust, Hand Pose Estimation
+# Hi5✋: Synthetic Data for Inclusive, Robust, Hand Pose Estimation
 
 ## Dataset Download:
 - Link: [Download Link](https://rochester.box.com/v/hi5-public-release) (Clicking may risk anonymity)

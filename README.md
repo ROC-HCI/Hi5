@@ -1,7 +1,7 @@
 # Hi5: Robust 2D Hand Pose Estimation for Real-World Applications Using Synthetic Data Alone
 
 ## Dataset Download:
-- Link: [Download Link](https://rochester.box.com/v/hi5-public-release)
+- Link: [Download Link](https://rochester.box.com/v/hi5-public-release) (Clicking may risk anonymity)
 
 
 ## Unity Game Engine Project
